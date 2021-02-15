@@ -4,7 +4,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=StarHeartHunt&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
-I'm **StarHeartHunt**, a third-grade senior middle school student in Guangdong now.
+I'm **StarHeartHunt**, a third-grade senior middle school student in Guangdong, China now.
 
 - 🔭 I’m currently working on: Unity Mobile Game Reverse Engineering
 - 🌱 I’m currently learning: Vue / React
