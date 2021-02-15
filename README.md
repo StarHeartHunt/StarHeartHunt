@@ -6,7 +6,7 @@
 
 I'm **StarHeartHunt**
 
-- 🔭 I’m a senior middle school student in Guangdong, China now.
+- 🔭 I’m a third-grade senior middle school student in Guangdong, China now.
 - 🌱 I’m currently learning: Vue / React
 - 👯 I’m collaborating on: Mooncell Wiki / PRTS Wiki
 - 💬 Ask me about: [MediaWiki](https://www.mediawiki.org)
