@@ -9,8 +9,6 @@ I'm **StarHeartHunt**, a third-grade senior middle school student in Canton, Chi
 
 🌟 **My Skills**
 
-![StarHeartHunt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarHeartHunt&layout=compact)
-
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
@@ -21,3 +19,6 @@ I'm **StarHeartHunt**, a third-grade senior middle school student in Canton, Chi
 
 ![StarHeartHunt:](https://count.getloli.com/get/@StarHeartHunt?theme=gelbooru)
 ![StarHeartHunt:](https://github-readme-stats.vercel.app/api?username=StarHeartHunt&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC)
+
+**I Mostly Code in ...**
+![StarHeartHunt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarHeartHunt&layout=compact)
