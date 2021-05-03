@@ -1,7 +1,3 @@
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=StarHeartHunt&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
-</a>
-
 ### Hi there 👋
 
 I'm **StarHeartHunt**, a third-grade senior middle school student in Canton, China now.
@@ -24,3 +20,4 @@ I'm **StarHeartHunt**, a third-grade senior middle school student in Canton, Chi
 📚 **Some Stats**
 
 ![StarHeartHunt:](https://count.getloli.com/get/@StarHeartHunt?theme=gelbooru)
+![StarHeartHunt:](https://github-readme-stats.vercel.app/api?username=StarHeartHunt&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC)
