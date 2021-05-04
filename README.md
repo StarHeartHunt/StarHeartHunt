@@ -3,7 +3,7 @@
 I'm **StarHeartHunt**, a third-grade senior middle school student in Canton, China now.
 
 - 🔭 I’m currently working on: Unity Mobile Game Reverse Engineering
-- 🌱 I’m currently learning: React
+- 🌱 I’m currently learning: React / Go
 - 👯 I’m collaborating on: [Mooncell Wiki](https://fgo.wiki/) / [PRTS Wiki](http://prts.wiki/)
 - 💬 Ask me about: [MediaWiki](https://www.mediawiki.org)
 
