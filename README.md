@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **StarHeartHunt**, a third-grade senior middle school student in Canton, China now.
+I'm **StarHeartHunt**, a pre-college student now.
 
 - 🔭 I’m currently working on: Unity Mobile Game Reverse Engineering
 - 🌱 I’m currently learning: React / Go
