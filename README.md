@@ -21,7 +21,6 @@ I’m **StarHeartHunt**.
 ![StarHeartHunt:](https://count.getloli.com/get/@StarHeartHunt?theme=gelbooru)
 
 ![](https://github.com/StarHeartHunt/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/StarHeartHunt/github-stats/blob/master/generated/languages.svg)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
