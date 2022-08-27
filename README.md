@@ -18,8 +18,6 @@ I’m **StarHeartHunt**.
 
 📚 **Some Stats**
 
-![StarHeartHunt:](https://count.getloli.com/get/@StarHeartHunt?theme=gelbooru)
-
 ![](https://github.com/StarHeartHunt/github-stats/blob/master/generated/overview.svg)
 
 <!--START_SECTION:waka-->
