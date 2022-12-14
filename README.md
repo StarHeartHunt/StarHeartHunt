@@ -16,10 +16,6 @@ I’m **StarHeartHunt**.
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
-📚 **Some Stats**
-
-![](https://github.com/StarHeartHunt/github-stats/blob/master/generated/overview.svg)
-
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
