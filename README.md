@@ -20,13 +20,13 @@ I’m **StarHeartHunt**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 90.4 kB Used in GitHub's Storage 
  > 
-> 🏆 374 Contributions in the Year 2023
+> 🏆 383 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,16 +40,20 @@ I’m **StarHeartHunt**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 20 mins        ███████████████░░░░░░░░░░   60.15 % 
+Git                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+TypeScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+OpenArknightsFBS         2 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +69,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2023 01:46:57 UTC
+ Last Updated on 04/05/2023 01:45:49 UTC
 <!--END_SECTION:waka-->
