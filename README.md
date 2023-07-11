@@ -20,17 +20,17 @@ I’m **StarHeartHunt**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%207%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 90.7 kB Used in GitHub's Storage 
+> 📦 90.8 kB Used in GitHub's Storage 
  > 
-> 🏆 446 Contributions in the Year 2023
+> 🏆 451 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 51 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
  > 
@@ -69,5 +69,5 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2023 02:06:43 UTC
+ Last Updated on 11/07/2023 13:07:50 UTC
 <!--END_SECTION:waka-->
