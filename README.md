@@ -20,7 +20,7 @@ I’m **StarHeartHunt**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-712%20hrs%2027%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -73,5 +73,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2023 01:31:23 UTC
+ Last Updated on 27/10/2023 01:31:45 UTC
 <!--END_SECTION:waka-->
