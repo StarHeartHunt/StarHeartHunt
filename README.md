@@ -20,7 +20,7 @@ I’m **StarHeartHunt**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-885%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-885%20hrs%2054%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -71,5 +71,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2024 01:29:54 UTC
+ Last Updated on 18/02/2024 01:34:51 UTC
 <!--END_SECTION:waka-->
