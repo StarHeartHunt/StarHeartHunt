@@ -20,11 +20,13 @@ I’m **StarHeartHunt**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C096%20hrs%2021%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 38.8 kB Used in GitHub's Storage 
  > 
-> 🏆 611 Contributions in the Year 2024
+> 🏆 613 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,5 +72,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 01:47:29 UTC
+ Last Updated on 17/06/2024 01:45:02 UTC
 <!--END_SECTION:waka-->
