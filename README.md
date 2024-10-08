@@ -20,13 +20,13 @@ I’m **StarHeartHunt**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C358%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 39.2 kB Used in GitHub's Storage 
+> 📦 39.3 kB Used in GitHub's Storage 
  > 
-> 🏆 787 Contributions in the Year 2024
+> 🏆 790 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -40,16 +40,20 @@ I’m **StarHeartHunt**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 mins              █████████████████████████   100.00 % 
+Vue.js                   17 mins             ███████████████░░░░░░░░░░   58.17 % 
+JavaScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+TypeScript               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-prts-widgets             4 mins              █████████████████████████   100.00 % 
+prts-widgets             27 mins             ███████████████████████░░   91.69 % 
+registry                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -65,5 +69,5 @@ VCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2024 02:06:04 UTC
+ Last Updated on 08/10/2024 02:00:28 UTC
 <!--END_SECTION:waka-->
