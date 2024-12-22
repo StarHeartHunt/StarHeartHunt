@@ -20,11 +20,13 @@ I’m **StarHeartHunt**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C397%20hrs%2039%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 39.5 kB Used in GitHub's Storage 
+> 📦 39.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 951 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -65,5 +67,5 @@ VCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2024 01:56:23 UTC
+ Last Updated on 22/12/2024 02:09:43 UTC
 <!--END_SECTION:waka-->
