@@ -20,6 +20,8 @@ I’m **StarHeartHunt**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C404%20hrs%2034%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 39.8 kB Used in GitHub's Storage 
@@ -70,5 +72,5 @@ VCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 02:06:10 UTC
+ Last Updated on 11/01/2025 01:58:49 UTC
 <!--END_SECTION:waka-->
