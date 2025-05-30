@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I’m **StarHeartHunt**.
+I’m **StarHeart**.
 
-- 🏫 I’m currently studying for a **BSc** in **Computer Science**
 - 🌱 I’m currently learning: Rust
-- 🔭 I’m currently working on: Web Frontend Engineering / Unity Mobile Game Reverse Engineering
+- 🔭 I’m currently working on: Web Frontend Development
 - 👯 I’m collaborating on: [Mooncell Wiki](https://fgo.wiki/) / [PRTS Wiki](http://prts.wiki/) / [NoneBot](https://github.com/nonebot)
 - 💬 Ask me about: [MediaWiki](https://www.mediawiki.org)
 
