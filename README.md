@@ -19,7 +19,7 @@ I’m **StarHeart**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C620%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -39,8 +39,7 @@ I’m **StarHeart**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     7 mins              █████████████████████████   99.65 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+JSON                     7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
 VS Code                  7 mins              █████████████████████████   100.00 % 
@@ -65,5 +64,5 @@ VCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2025 02:20:55 UTC
+ Last Updated on 06/07/2025 02:35:15 UTC
 <!--END_SECTION:waka-->
