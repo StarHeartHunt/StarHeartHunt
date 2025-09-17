@@ -19,8 +19,6 @@ I’m **StarHeart**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C778%20hrs%2045%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 4.1 kB Used in GitHub's Storage 
@@ -33,30 +31,6 @@ I’m **StarHeart**.
  > 
 > 🔑 0 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               15 hrs              █████████████████░░░░░░░░   67.65 % 
-JSON                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-JavaScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 39 mins      ███████████████████████░░   93.13 % 
-Cursor                   1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-
-🐱‍💻 Projects: 
-PRIVATE PROJECT          21 hrs 35 mins      ████████████████████████░   97.33 % 
-prts-widgets             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-
-💻 Operating System: 
-Mac                      22 hrs 10 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -70,5 +44,5 @@ VCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 02:07:12 UTC
+ Last Updated on 17/09/2025 02:06:30 UTC
 <!--END_SECTION:waka-->
