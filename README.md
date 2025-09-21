@@ -19,11 +19,13 @@ I’m **StarHeart**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C789%20hrs%2050%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 4.1 kB Used in GitHub's Storage 
  > 
-> 🏆 580 Contributions in the Year 2025
+> 🏆 587 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,6 +33,30 @@ I’m **StarHeart**.
  > 
 > 🔑 0 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               5 hrs 20 mins       ████████████░░░░░░░░░░░░░   48.15 % 
+JavaScript               3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.49 % 
+JSON                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+XML                      30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+HTML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 53 mins       ██████████████████░░░░░░░   71.04 % 
+Cursor                   3 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+
+🐱‍💻 Projects: 
+PRIVATE PROJECT          11 hrs 3 mins       █████████████████████████   99.60 % 
+adapter-feishu           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+
+💻 Operating System: 
+Mac                      11 hrs 6 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -44,5 +70,5 @@ VCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 02:04:35 UTC
+ Last Updated on 21/09/2025 02:18:01 UTC
 <!--END_SECTION:waka-->
