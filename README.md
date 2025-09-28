@@ -19,13 +19,11 @@ I’m **StarHeart**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C796%20hrs%2021%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 4.1 kB Used in GitHub's Storage 
  > 
-> 🏆 589 Contributions in the Year 2025
+> 🏆 593 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -33,31 +31,6 @@ I’m **StarHeart**.
  > 
 > 🔑 0 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JavaScript               2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
-TypeScript               2 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
-JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-SCSS                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 33 mins       ███████████████████████░░   90.49 % 
-Cursor                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-
-🐱‍💻 Projects: 
-PRIVATE PROJECT          7 hrs 11 mins       █████████████████████████   99.25 % 
-RouletteRecorder.Dalamud 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-
-💻 Operating System: 
-Mac                      7 hrs 11 mins       █████████████████████████   99.25 % 
-Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -71,5 +44,5 @@ VCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 02:03:13 UTC
+ Last Updated on 28/09/2025 02:18:57 UTC
 <!--END_SECTION:waka-->
