@@ -19,6 +19,8 @@ I’m **StarHeart**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C879%20hrs%2036%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 4.1 kB Used in GitHub's Storage 
@@ -54,8 +56,8 @@ DefinitelyTyped          14 mins             ░░░░░░░░░░░�
 Roulette                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-Mac                      16 hrs 56 mins      ████████████████████████░   97.04 % 
-Windows                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Mac                      16 hrs 56 mins      ████████████████████████░   97.05 % 
+Windows                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
 ```
 
 **I Mostly Code in Python** 
@@ -71,5 +73,5 @@ VCL                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 02:25:13 UTC
+ Last Updated on 17/11/2025 02:20:20 UTC
 <!--END_SECTION:waka-->
