@@ -19,7 +19,7 @@ I’m **StarHeart**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C259%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C259%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -39,40 +39,40 @@ I’m **StarHeart**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               8 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.04 % 
-Python                   3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-JSON                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-CMake                    1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+TypeScript               12 hrs 16 mins      ████████████░░░░░░░░░░░░░   48.29 % 
+Python                   3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+YAML                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+CMake                    1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+TOML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 🔥 Editors: 
-Cursor                   21 hrs 47 mins      ███████████████████████░░   91.67 % 
-VS Code                  1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Cursor                   23 hrs 23 mins      ███████████████████████░░   92.10 % 
+VS Code                  2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          20 hrs 16 mins      █████████████████████░░░░   85.32 % 
-Torappu                  1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-lz4inv                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-flatbuffers              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-ArkModify-Cheat-Dev      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+PRIVATE PROJECT          21 hrs 54 mins      ██████████████████████░░░   86.22 % 
+Torappu                  1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+lz4inv                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+flatbuffers              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+ArkModify-Cheat-Dev      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 💻 Operating System: 
-Mac                      23 hrs 9 mins       ████████████████████████░   97.45 % 
-Windows                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Mac                      24 hrs 48 mins      ████████████████████████░   97.65 % 
+Windows                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   25 repos            ████████░░░░░░░░░░░░░░░░░   33.78 % 
-TypeScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-C#                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Python                   24 repos            ████████░░░░░░░░░░░░░░░░░   32.88 % 
+TypeScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+C#                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 
 
 
 
- Last Updated on 16/03/2026 01:00:59 UTC
+ Last Updated on 17/03/2026 00:53:14 UTC
 <!--END_SECTION:waka-->
