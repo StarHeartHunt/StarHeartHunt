@@ -19,19 +19,19 @@ I’m **StarHeart**.
 ![](https://img.shields.io/badge/-Dotnet-512bd4?style=flat-square&logo=.net&logoColor=fff)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C346%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C350%20hrs%2056%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 4.8 kB Used in GitHub's Storage 
  > 
-> 🏆 176 Contributions in the Year 2026
+> 🏆 192 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 33 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -39,39 +39,40 @@ I’m **StarHeart**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               19 hrs 49 mins      ████████████████░░░░░░░░░   62.67 % 
-Python                   3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-JSON                     2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-JavaScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+TypeScript               19 hrs 38 mins      ███████████████░░░░░░░░░░   61.08 % 
+JSON                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JavaScript               2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Python                   2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Markdown                 1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-Cursor                   28 hrs 1 min        ██████████████████████░░░   88.62 % 
-VS Code                  3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Cursor                   27 hrs 41 mins      ██████████████████████░░░   86.14 % 
+VS Code                  4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          26 hrs              █████████████████████░░░░   82.25 % 
-adapter-wxwork           1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-nonebot2                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-registry                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-sub-converter            28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+PRIVATE PROJECT          26 hrs              ████████████████████░░░░░   80.92 % 
+okztwo-sub               1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+blutter                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+adapter-wxwork           33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+sub-converter            28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Mac                      31 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 4 mins       ████████████████████████░   96.67 % 
+Windows                  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   25 repos            ████████░░░░░░░░░░░░░░░░░   32.89 % 
-TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-C#                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Python                   27 repos            █████████░░░░░░░░░░░░░░░░   34.18 % 
+TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+JavaScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 
 
 
- Last Updated on 04/04/2026 00:55:18 UTC
+ Last Updated on 05/04/2026 01:03:25 UTC
 <!--END_SECTION:waka-->
