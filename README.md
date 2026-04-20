@@ -39,40 +39,38 @@ I’m **StarHeart**.
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 55 mins       ████████████████░░░░░░░░░   62.68 % 
-JSON                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Python                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+TypeScript               9 hrs 54 mins       ████████████████░░░░░░░░░   65.51 % 
+JSON                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-Cursor                   15 hrs 28 mins      ████████████████████████░   97.73 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Unknown Editor           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Cursor                   14 hrs 46 mins      ████████████████████████░   97.63 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Unknown Editor           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🐱‍💻 Projects: 
-PRIVATE PROJECT          14 hrs 45 mins      ███████████████████████░░   93.18 % 
-adapter-wxwork           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-nonebot2                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+PRIVATE PROJECT          14 hrs 45 mins      ████████████████████████░   97.45 % 
+nonebot2                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-okztwo-sub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      15 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   27 repos            █████████░░░░░░░░░░░░░░░░   34.18 % 
-TypeScript               17 repos            █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-C#                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Python                   27 repos            █████████░░░░░░░░░░░░░░░░   34.62 % 
+TypeScript               16 repos            █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+C#                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+C++                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
 
 
- Last Updated on 19/04/2026 01:07:55 UTC
+ Last Updated on 20/04/2026 01:07:06 UTC
 <!--END_SECTION:waka-->
